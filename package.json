@@ -1,0 +1,21 @@
+{
+  "name": "toxdo",
+  "version": "1.0.0",
+  "description": "To do webpage using Express and MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "todo",
+    "crud"
+  ],
+  "author": "Uday Cherri",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "mongoose": "^8.5.2",
+    "nodemon": "^3.1.4"
+  }
+}
